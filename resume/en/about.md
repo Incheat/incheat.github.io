@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+permalink: /resume/en
 ---
 # About page
 

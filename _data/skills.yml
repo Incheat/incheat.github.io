@@ -13,6 +13,9 @@
 - name: AWS
   level: 50%
   col: left
+- name: Others
+  level: 40%
+  col: left
 - name: Mandarin
   level: 95%
   col: right

@@ -1,0 +1,25 @@
+- name: Java
+  level: 80%
+  col: left
+- name: Vue
+  level: 90%
+  col: left
+- name: Mysql
+  level: 90%
+  col: left
+- name: Linux
+  level: 60%
+  col: left
+- name: AWS
+  level: 50%
+  col: left
+- name: Mandarin
+  level: 100%
+  col: right
+- name: English (TOEIC 800)
+  level: 70%
+  col: right
+- name: Japanese (N1)
+  level: 70%
+  col: right
+  

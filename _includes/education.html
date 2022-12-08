@@ -1,0 +1,12 @@
+<h2 class="h3 mb-4">Education</h2>
+<div class="timeline">
+    {% for education in site.data.educationList %}
+    <div class="timeline-card timeline-card-success card shadow-sm">
+        <div class="card-body">
+            <div class="h5 mb-1">{{ education.title }}<span class="text-muted h6"> from {{ education.organization }}</span></div>
+            <div class="text-muted text-small mb-2">{{ education.from }} - {{ education.to }}</div>
+            <div>{{ education.description }}</div>
+        </div>
+    </div>
+    {% endfor %}
+</div>

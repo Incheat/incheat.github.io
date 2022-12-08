@@ -1,0 +1,27 @@
+
+
+<h2 class="h3 mb-3">Professional Skills</h2>
+<div class="row">
+    <div class="col-md-6">
+        {% for skill in site.data.skills %}
+            {% if skill.col == "left" %}
+            <div class="mb-2"><span>{{ skill.name }}</span>
+                <div class="progress my-1">
+                    <div class="progress-bar bg-primary" role="progressbar" data-aos="zoom-in-right" data-aos-delay="100" data-aos-anchor=".skills-section" style="width: {{skill.level}}" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
+    </div>
+    <div class="col-md-6">
+        {% for skill in site.data.skills %}
+            {% if skill.col == "right" %}
+            <div class="mb-2"><span>{{ skill.name }}</span>
+                <div class="progress my-1">
+                    <div class="progress-bar bg-success" role="progressbar" data-aos="zoom-in-right" data-aos-delay="100" data-aos-anchor=".skills-section" style="width: {{skill.level}}" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>

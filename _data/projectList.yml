@@ -1,0 +1,75 @@
+- name: Job Information Share Platform In Taiwan
+  position: cofounder, developer
+  identity: personal
+  from: September, 2020
+  to: Present
+  description:
+    - 1.A platform for making salary offerd in Taiwan more reasonable by letting people share their salary based on the payslip they provided<br />
+      2.Security concern and strongly data-user decoupling mechanism<br />
+
+- name: Revised Version Car Rental System
+  position: developer
+  identity: work
+  from: January, 2022
+  to: Present
+  description: 
+    - 1.A production-level car rental system consisted of webiste, api, app, mircoservice and cloud service<br />
+      2.Huge Collabration among serveral companies<br />
+
+- name: Database Migration(MySql)
+  position: developer
+  identity: work
+  from: March, 2021
+  to: January, 2022
+  description:
+    - 1.Analysis currnet database and make migration plans for data transfer<br />
+      2.Design, implement, test and operate sql to commit migration plans<br />
+
+- name: E-commerce webiste Email marketing
+  position: support engineer
+  identity: work
+  from: July, 2020
+  to: March, 2021
+  description:
+    - 1. build email marketing campaigns utilizing a content system, segmentation, automation, tracking, and analytics to make data-driven decisions to optimize their email campaigns<br />
+      2. Salesforce Marketing Cloud operation
+
+- name: E-commerce webiste maintenance
+  position: support engineer
+  identity: work
+  from: April, 2020
+  to: July, 2020
+  description:
+    - 1.Writing and debugging code<br />
+      2.Troubleshooting software issues<br />
+      3.Apache, Memcache, PHP, Oracle, Java, HTML, Sql
+
+- name: Research of Production Efficiency Improvement with Personnel Positioning for Intelligent Factory
+  position: NCKU CSIE Graduate Project
+  identity: student
+  from: June, 2016
+  to: June, 2018
+  description:
+    - 1.Backend, Middle and Front tier development (Python, C#, ASP.NET MVC)<br />
+      2.Establish Back-End workflow (Sensor data > Database > Algorithm analysis > Output results > Front-End )<br />
+      3.Deploy WSN base on Ms Windows Server and Raspiberry pi<br />
+      4.Time-series data processing (C#)
+
+- name: Frequent Pattern growth Algorithm in the Presence of the Memory Constraint and Apriori Algorithm implementation on Hadoop
+  position: NCKU CSIE Graduate Project
+  identity: student
+  from: June, 2014
+  to: June, 2015
+  description:
+    - 1.Implement several improvement methods for Apriori Algorithm on Hadoop (Java code)<br />
+      2.Experience on monitoring system – Ganglia
+
+- name: Etu – Finals
+  position: Hadoop Competition
+  identity: student
+  from: June, 2014
+  to: Feburary, 2015
+  description:
+    - 1.Build and manage Hadoop cluster on fully-distributed mode<br />
+      2.Experience on Hive, HBase, Pig and Zookeeper<br />
+      3.Experience working in Linux-based OS

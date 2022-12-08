@@ -1,0 +1,12 @@
+<h2 class="h3 mb-4">Work Experience</h2>
+<div class="timeline">
+    {% for experience in site.data.experienceList %}
+    <div class="timeline-card timeline-card-primary card shadow-sm">
+        <div class="card-body">
+            <div class="h5 mb-1">{{ experience.position }}<span class="text-muted h6"> at {{ experience.company }}</span></div>
+            <div class="text-muted text-small mb-2">{{ experience.from }} - {{ experience.to }}</div>
+            <div>{{ experience.description }}</div>
+        </div>
+    </div>
+    {% endfor %}
+</div>

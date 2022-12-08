@@ -73,3 +73,30 @@
     - 1.Build and manage Hadoop cluster on fully-distributed mode<br />
       2.Experience on Hive, HBase, Pig and Zookeeper<br />
       3.Experience working in Linux-based OS
+
+- name: Implementation on Barcode Ean13 Scanner (C#)
+  position: Hadoop Competition
+  identity: student
+  from: 
+  to: 
+  description:
+    - 1.Implementation convolution algorithm on image data<br />
+      2.Design kernel function for scanning Barcode Ean13<br />
+      3.Experience on processing image data with EmguCV
+
+- name: Monitoring Platform for Smart Farming
+  position: Hadoop Competition
+  identity: student
+  from: June, 2016
+  to: June, 2018
+  description:
+    - 1.Backend and Front tier development (C#, ASP.NET MVC)<br />
+      2.Sensor program on raspiberry pi (python)
+
+- name: TA of C# programming class 
+  position: 
+  identity: student
+  from: June, 2016
+  to: June, 2018
+  description:
+    - 

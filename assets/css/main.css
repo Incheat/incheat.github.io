@@ -81,6 +81,10 @@ html {
   font-size: 1.25rem;
   line-height: 2.5rem; }
 
+.site-title-sup {
+  font-size: 0.85rem;
+  line-height: 2.5rem; }
+
 .nav-link {
   padding: 0;
   font-size: 1.25rem;
@@ -123,6 +127,8 @@ footer a:not(.nav-link) {
 @media (min-width: 48em) {
   .site-title {
     float: left; }
+  .site-title-sup {
+      float: right; }
   .site-nav {
     float: right; }
   .avatar {

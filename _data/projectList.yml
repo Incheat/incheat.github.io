@@ -93,8 +93,8 @@
     - 1.Backend and Front tier development (C#, ASP.NET MVC)<br />
       2.Sensor program on raspiberry pi (python)
 
-- name: TA of C# programming class 
-  position: 
+- name: C# programming class 
+  position: TA
   identity: student
   from: June, 2016
   to: June, 2018

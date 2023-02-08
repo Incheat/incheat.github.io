@@ -1,6 +1,6 @@
 ---
 layout: redirected_random
 sitemap: false
-permalink: /payleak/now
+permalink: /payleak/uuid
 redirect_to: https://www.payleak.tw/
 ---

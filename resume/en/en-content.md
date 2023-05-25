@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: maintenance
 title: Incheat Resume
 permalink: /resume/en
 update:
